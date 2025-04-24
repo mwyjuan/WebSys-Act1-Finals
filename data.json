@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "sample@grc.com",
+    "phone": "524542-54554565",
+    "address": {
+      "street": "123 Main St.",
+      "city": "Anthony",
+      "state": "CA",
+      "zip": "12356"
+    },
+    "company": {
+      "name": "Tech Solutions",
+      "position": "Software Engineer",
+      "department": "Development"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@abc.com",
+    "phone": "123-456-7890",
+    "address": {
+      "street": "456 Elm St.",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "78901"
+    },
+    "company": {
+      "name": "Creative Inc.",
+      "position": "Designer",
+      "department": "Art"
+    }
+  }
+]
